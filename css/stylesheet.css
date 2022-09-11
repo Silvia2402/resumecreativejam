@@ -1,0 +1,17 @@
+p{
+    text-align: justify;
+    font: 16px Helvetica;
+    margin: inherit;
+    text-indent: em;
+}
+
+h3{
+    color: lightcoral;
+    font-family: Arial;
+    margin-left: 10px;
+   text-decoration: underline overline;
+}
+
+p.datigenerali{
+    margin-left: 0.5em;
+}
